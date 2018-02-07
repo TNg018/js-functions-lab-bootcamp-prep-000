@@ -1,3 +1,4 @@
-function sayHelloToIsabel() {
-  console.log("Hello, Isabel!")
+function sayHappyHolidays() {
+  console.log("Happy Holidays!")
 }
+
