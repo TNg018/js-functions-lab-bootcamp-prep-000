@@ -1,3 +1,5 @@
-function say(HappyHolidays) {
-  }
+function happyHolidays {
+  return "Happy Holidays!"
+}
+
   
