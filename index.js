@@ -1,1 +1,3 @@
-// write your code below!
+function sayHappyHolidays("Happy Holidays") {
+ return ('HappyHolidays!')
+}
