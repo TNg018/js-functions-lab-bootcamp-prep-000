@@ -1,5 +1,3 @@
-function happyHolidays {
-  return "Happy Holidays!"
+function sayHelloToIsabel() {
+  console.log("Hello, Isabel!")
 }
-
-  
