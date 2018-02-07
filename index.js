@@ -1,1 +1,3 @@
-console.log('Happy Holidays!')
+function sayHello() {
+  console.log('Hello!')
+}
